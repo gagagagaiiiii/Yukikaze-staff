@@ -1,0 +1,8 @@
+h1,h2,h3,h4,img,div{
+  padding: 0px;
+}
+img{
+  width: 50%;
+  border: 2px dashed black;
+  margin-top: 60px;
+}
